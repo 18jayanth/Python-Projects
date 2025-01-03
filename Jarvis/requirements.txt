@@ -1,0 +1,7 @@
+speechrecognition
+pyaudio
+setuptools
+pyttsx3
+pocketsphinx
+requests
+openai
